@@ -1,4 +1,8 @@
 ### Hi there 👋
+🔭 I’m currently working on The Odin Project
+🌱 I’m currently learning Frontend Development
+
+I would love to become Web Developer and earn huge bread
 
 <!--
 **MevWebDev/MevWebDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
