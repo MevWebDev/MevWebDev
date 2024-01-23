@@ -1,6 +1,6 @@
 ### Hi there 👋
+🧑‍🎓 I'm a student of Computer Science in Uniwerstytet Gdański
 🔭 I’m currently working on The Odin Project
-🌱 I’m currently learning Frontend Development
 
 I would love to become Web Developer and earn huge bread
 
