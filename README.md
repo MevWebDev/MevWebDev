@@ -1,5 +1,5 @@
 ### Hi there 👋
-🧑‍🎓 I'm a student of Computer Science in Uniwerstytet Gdański
+🧑‍🎓 I'm a student of Computer Science in University of Gdańsk
 
 🔭 I’m currently working on The Odin Project
 
