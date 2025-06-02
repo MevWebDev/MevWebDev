@@ -43,7 +43,7 @@ Beyond mastering the core technologies, I thrive on exploring cutting-edge innov
       <br /><strong>Node.js</strong>
     </td>
     <td align="center" width="108">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="48" height="48" alt="Express" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
       <br /><strong>Express</strong>
     </td>
     <td align="center" width="108">
