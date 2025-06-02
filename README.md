@@ -25,7 +25,7 @@ Beyond mastering the core technologies, I thrive on exploring cutting-edge innov
       <br /><strong>Next.js</strong>
     </td>
     <td align="center" width="108">
-      <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.6ea76c3f.svg" width="48" height="48" alt="Tailwind" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind" />
       <br /><strong>Tailwind</strong>
     </td>
     <td align="center" width="108">
