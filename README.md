@@ -41,7 +41,6 @@ Beyond mastering the core technologies, I thrive on exploring cutting-edge innov
       <br /><strong>Node.js</strong>
     </td>
   </tr>
-  
   <tr>
     <td align="center" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
@@ -70,9 +69,6 @@ Beyond mastering the core technologies, I thrive on exploring cutting-edge innov
     <td align="center" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="48" height="48" alt="Jest" />
       <br /><strong>Jest</strong>
-    </td>
-    <td align="center" width="108">
-      <!-- empty cell to keep layout consistent -->
     </td>
   </tr>
   
