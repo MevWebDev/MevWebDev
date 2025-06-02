@@ -32,8 +32,6 @@ Beyond mastering the core technologies, I thrive on exploring cutting-edge innov
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="48" height="48" alt="Material UI" />
       <br /><strong>Material UI</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48" alt="Sass" />
       <br /><strong>Sass</strong>
@@ -42,6 +40,9 @@ Beyond mastering the core technologies, I thrive on exploring cutting-edge innov
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
       <br /><strong>Node.js</strong>
     </td>
+  </tr>
+  
+  <tr>
     <td align="center" width="108">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
       <br /><strong>Express</strong>
