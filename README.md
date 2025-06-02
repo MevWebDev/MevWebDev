@@ -55,8 +55,6 @@ Beyond mastering the core technologies, I thrive on exploring cutting-edge innov
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
       <br /><strong>MongoDB</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="108">
       <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="48" height="48" alt="Supabase" />
       <br /><strong>Supabase</strong>
@@ -77,6 +75,7 @@ Beyond mastering the core technologies, I thrive on exploring cutting-edge innov
       <!-- empty cell to keep layout consistent -->
     </td>
   </tr>
+  
 </table>
 
 
