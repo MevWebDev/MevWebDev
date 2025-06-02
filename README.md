@@ -161,7 +161,4 @@ Beyond mastering the core technologies, I thrive on exploring cutting-edge innov
   </tr>
 </table>
 
-# 📈 Stats 
-
-![](https://komarev.com/ghpvc/?username=MevWebDev)
 
