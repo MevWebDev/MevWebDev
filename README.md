@@ -165,9 +165,3 @@ Beyond mastering the core technologies, I thrive on exploring cutting-edge innov
 
 ![](https://komarev.com/ghpvc/?username=MevWebDev)
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=MevWebDev&theme=vue-dark&show_icons=true&hide_border=true&hide_rank=true&count_private=true"
-/>
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=MevWebDev&theme=vue-dark&hide_border=true"
-/>
