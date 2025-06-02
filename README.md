@@ -6,7 +6,7 @@ Beyond mastering the core technologies, I thrive on exploring cutting-edge innov
 </div>
 <br/>
 <a href="mailto:grysiewiczszymon47@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-<a href="www.linkedin.com/in/szymon-grysiewicz-850049289n"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/szymon-grysiewicz-850049289n"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
 # 🔧 Technologies & Tools
 
@@ -28,8 +28,13 @@ Beyond mastering the core technologies, I thrive on exploring cutting-edge innov
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
       <br /><strong>Tailwind</strong>
     </td>
-    <td align="center" width="108">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="48" height="48" alt="Material UI" />
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+        width="48"
+        height="48"
+        alt="Material UI"
+      />
       <br /><strong>Material UI</strong>
     </td>
     <td align="center" width="108">
