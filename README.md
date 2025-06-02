@@ -1,18 +1,173 @@
-### Hi there 👋
-🧑‍🎓 I'm a student of Computer Science in University of Gdańsk
+# 👋 Hey there
 
-🔭 I’m currently working on The Odin Project
+<div align="justify">
+My name is Michał and I'm a passionate Full Stack Engineer with a deep love for JavaScript technologies. My world revolves around the ever-evolving realm of Web Development where I continuously expand my knowledge and skills to craft exceptional digital experiences.
+Beyond mastering the core technologies, I thrive on exploring cutting-edge innovations, always on the lookout for new tools and techniques to tackle real-world challenges creatively and efficiently. My commitment to staying at the forefront of technology is the driving force behind my journey as a developer.
+</div>
+<br/>
+<a href="mailto:michal.osman@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/michalosman"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
-🌐 I would love to become Web Developer and earn huge bread
+# 🔧 Technologies & Tools
 
-# 🌸 My recent AniList activity
+<table>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
+        width="48"
+        height="48"
+        alt="TypeScript"
+      />
+      <br /><strong>TypeScript</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+        width="48"
+        height="48"
+        alt="VueJS"
+      />
+      <br /><strong>Vue</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg"
+        width="48"
+        height="48"
+        alt="Nuxt"
+      />
+      <br /><strong>Nuxt</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        width="48"
+        height="48"
+        alt="React"
+      />
+      <br /><strong>React</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+        width="48"
+        height="48"
+        alt="Next"
+      />
+      <br /><strong>Next</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+        width="48"
+        height="48"
+        alt="Sass"
+      />
+      <br /><strong>Sass</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+        width="48"
+        height="48"
+        alt="Tailwind"
+      />
+      <br /><strong>Tailwind</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+        width="48"
+        height="48"
+        alt="Material UI"
+      />
+      <br /><strong>Material UI</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+        width="48"
+        height="48"
+        alt="Node"
+      />
+      <br /><strong>Node</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+        width="48"
+        height="48"
+        alt="Express"
+      />
+      <br /><strong>Express</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+        width="48"
+        height="48"
+        alt="MongoDB"
+      />
+      <br /><strong>MongoDB</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+        width="48"
+        height="48"
+        alt="PostgreSQL"
+      />
+      <br /><strong>PostgreSQL</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+        width="48"
+        height="48"
+        alt="Firebase"
+      />
+      <br /><strong>Firebase</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg"
+        width="48"
+        height="48"
+        alt="Playwright"
+      />
+      <br /><strong>Playwright</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+        width="48"
+        height="48"
+        alt="Docker"
+      />
+      <br /><strong>Docker</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
+        width="48"
+        height="48"
+        alt="AWS"
+      />
+      <br /><strong>AWS</strong>
+    </td>
+  </tr>
+</table>
 
-<!-- ANILIST_ACTIVITY:start -->
+# 📈 Stats 
 
--   📺 Watched episode 2 of [Solo Leveling](https://anilist.co/anime/151807) (21:06 17 January 2024)
--   📺 Watched episode 421 of [ONE PIECE](https://anilist.co/anime/21) (16:43 07 January 2024)
--   📺 Completed [BLEACH: Thousand-Year Blood War - The Separation](https://anilist.co/anime/159322) (19:03 03 November 2023)
--   📺 Watched episode 9 - 12 of [BLEACH: Thousand-Year Blood War - The Separation](https://anilist.co/anime/159322) (19:03 03 November 2023)
--   📺 Watched episode 250 of [ONE PIECE](https://anilist.co/anime/21) (12:58 13 September 2023)
+![](https://komarev.com/ghpvc/?username=michalosman)
 
-<!-- ANILIST_ACTIVITY:end -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=michalosman&theme=vue-dark&show_icons=true&hide_border=true&hide_rank=true&count_private=true"
+/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=michalosman&theme=vue-dark&hide_border=true"
+/>
